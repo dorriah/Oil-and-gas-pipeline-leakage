@@ -1,6 +1,7 @@
-Final Project
-This code is for my project which achieved 97% using SVM model. This word had been published in Computational Journal. 
-For more details and an explanation of the work find the paper at the link: https://www.mdpi.com/2079-3197/10/8/138
+# Final Project:
+## Oil and Gas.ipynb
+* This code is for my project which achieved 97% using SVM model. This word had been published in Computational Journal. 
+* For more details and an explanation of the work find the paper at the link: https://www.mdpi.com/2079-3197/10/8/138
 
 # Oil-and-gas-pipeline-leakage
 
